@@ -31,6 +31,12 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ---
 
+## Tools Used
+- Git
+- GitHub
+- VS Code
+- Bash
+
 ## Environment-Specific Features
 
 ### Production Features

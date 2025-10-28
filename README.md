@@ -7,8 +7,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Project Status
 | Build Type | Version | Environment | Maintainer |
 |-------------|----------|--------------|-------------|
-| Production | 1.0.0 | Production | [YOUR NAME] |
-| Development (Beta) | 2.0.0-beta | Development | [YOUR NAME] |
+| Production | 1.0.0 | Production | Remilla Sri Vaishnavi |
+| Development (Beta) | 2.0.0-beta | Development | Remilla Sri Vaishnavi |
 | Experimental (AI) | 3.0.0-experimental | Testing | DevOps Innovation Team |
 
 ---

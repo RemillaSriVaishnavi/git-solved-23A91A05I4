@@ -120,7 +120,9 @@ merge conflicts across multiple branches using proper Git workflows.
 This challenge taught me that merge conflicts aren't scary - they're 
 just Git asking "which version do you want?". The key is understanding 
 what each side is trying to do before combining them. I now feel 
-confident handling conflicts in real projects.
+confident handling conflicts in real projects. This Git challenge also helped me 
+understand how to resolve conflicts, use rebase, stash, cherry-pick, 
+and manage branches effectively.
 
 The hands-on practice with all Git commands (especially rebase and 
 cherry-pick) was invaluable. I understand the difference between merge 
